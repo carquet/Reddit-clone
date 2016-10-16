@@ -1,24 +1,16 @@
-# README
+# 12 x 12 challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+McKenzie Child's challenge to build 12 rails project in 12 weeks.
 
-Things you may want to cover:
+# Reddit clone
 
-* Ruby version
+Requirements :
+*the user is able to submit links with title and url
+*sign up/ sign in/out
+*vote up and down on a link
 
-* System dependencies
+## built with 
+* Rails 5.0.0.1
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![home page](app/assets/images/radditsshot.png)
